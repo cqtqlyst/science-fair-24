@@ -1,2 +1,12 @@
 
 .ipynb_checkpoints/
+.DS_Store
+dhfr.csv
+descriptors_output.csv
+padel.sh
+padel.zip
+dhfr.smi
+
+PaDEL-Descriptor/
+__MACOSX/
+
